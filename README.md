@@ -1,3 +1,7 @@
+# HCI Project Report
+by: Miggy Reyes
+
+
 ## Dashboard Examples
 <img src="./assets/dash1.jpeg" height="250">
 <img src="./assets/dash2.jpeg" height="250">
