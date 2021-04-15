@@ -70,3 +70,7 @@ by: Miggy Reyes
 * Make sure display is bright in the day and dark at night with lots of contrast
 * Make most important information (depending on the user) is shown upfront and larger than the rest of the UI
 * Create a notification drop down warnings and maintenance
+
+## Low Fidelity Prototype
+<img src="./assets/sketch1.gif" width="75%">
+<img src="./assets/sketch2.gif" width="75%">
