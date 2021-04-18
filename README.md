@@ -74,3 +74,9 @@ by: Miggy Reyes
 ## Low Fidelity Prototype
 <img src="./assets/sketch1.gif" width="75%">
 <img src="./assets/sketch2.gif" width="75%">
+
+## Video
+
+<img src="./assets/screenshot.gif" width="75%">
+
+<a href="https://youtu.be/0HZUj4BoJaw">Video Link</a>
